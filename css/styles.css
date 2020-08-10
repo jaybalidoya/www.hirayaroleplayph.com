@@ -440,7 +440,7 @@ Hero
     min-height: auto;
     background: rgb(40, 70, 102) url('../img/hero.jpg') no-repeat center center;
     background-size: cover;
-    color: #00df0f;
+    color: #000000;
 }
 .hero h1 {
     margin: 18% 0 20px 0;
